@@ -1,0 +1,99 @@
+
+
+
+
+
+.container0{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: gainsboro;
+    width: 864;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 357px 160px 357px 339px;
+}
+
+.myra{
+    width: 432px;
+    height: 517px;
+
+}
+
+.laing{
+    width: 432px;
+    height: 357px;
+}
+
+.cake{
+    width: 432px;
+    height: 357px;
+}
+
+.risoto{
+    width: 432px;
+    height: 517px;
+}
+
+.sinigang{
+    width: 432px;
+    height: 329px;
+}
+
+.steak{
+    width: 432px;
+    height: 339px;
+}
+
+
+
+
+/*-------------*/
+
+/* .block1{
+    background-color: aqua;
+    width: 432px;
+    height: 517px;
+}
+
+.block2{
+    background-color: coral;
+    width: 432px;
+    height: 517px;
+    display: flex;
+} */
+
+.block3{
+    background-color: coral;
+    width: 432px;
+    height: 357px;
+    grid-area: 3/1/4/2;
+}
+
+.block4{
+    background-color: aqua;
+    width: 432px;
+    height: 517px;
+    grid-area: 2/2/4/3;
+}
+
+.block5{
+    background-color: aqua;
+    width: 432px;
+    height: 329px;
+    grid-area: 4/1/5/2;
+}
+
+.block6{
+    background-color: coral;
+    width: 432px;
+    height: 339px;
+    grid-area: 4/2/5/3 ;
+} 
+
+/*-------------*/
+
+
